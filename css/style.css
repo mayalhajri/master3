@@ -1,0 +1,19 @@
+body {
+     text-align: center;
+}
+
+
+ canvas {
+    padding:0;
+     margin-top:-40px;
+     max-height:600px;
+}
+
+
+ p {
+     font-size:25px;
+     color: brown;
+     font-family: Candal;
+     font-weight: bold;
+     padding:0;
+}
