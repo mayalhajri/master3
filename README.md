@@ -14,6 +14,7 @@ Players move by using the main up/right/left/down arrow keys on their keyboard.
 To run the application:
 
 1. Download the GitHub zip file or clone the repository onto your local workstation:
+[https://mayalhajri.github.io/master3/]
 2. Open a browser window and navigate to the index.html file in your application's directory.
 
 ## Tools / Techniques
